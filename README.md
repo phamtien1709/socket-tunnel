@@ -3,13 +3,13 @@
 ## Normal install
 
 ```sh
-npm install git+https://github.com/tuanngocptn/socket-tunnel.git
+npm install git+https://github.com/phamtien1709/socket-tunnel.git
 ```
 
 ## Global install
 
 ```sh
-npm install -g git+https://github.com/tuanngocptn/socket-tunnel.git
+npm install -g git+https://github.com/phamtien1709/socket-tunnel.git
 ```
 
 # How to use
